@@ -1,5 +1,9 @@
 package it.develhope.javadoc1;
 
+/**
+ * This class is a tester class and hasthe main method in it.
+ * @author Giulia
+ */
 public class Start {
     public static void main(String[] args) {
         WordGames wordGames = new WordGames();
